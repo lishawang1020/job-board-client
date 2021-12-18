@@ -1,0 +1,17 @@
+#center {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#siteName {
+  font-family: "Arial Rounded MT Bold";
+  font-size: 35px;
+}
+
+#searchBtn {
+  margin-top: 10px;
+}

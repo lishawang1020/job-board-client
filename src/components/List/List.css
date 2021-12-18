@@ -1,0 +1,14 @@
+#wrapperDiv {
+  overflow: scroll;
+  height: 100%;
+  margin: auto;
+}
+
+#jobDiv {
+    width: 95%;
+    padding-left: 15px;
+}
+
+#resultTitle {
+    padding-top: 5px;
+}
